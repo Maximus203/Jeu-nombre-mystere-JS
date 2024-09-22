@@ -1,5 +1,5 @@
 
-![Gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXMxNHhtdXB6b3hraXhtamo5Z2JocTQ4dWM1c2pqcnNzYzRyN3RsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2IfEQqgWc0AH4r6Al/giphy.webp)
+<img center src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXMxNHhtdXB6b3hraXhtamo5Z2JocTQ4dWM1c2pqcnNzYzRyN3RsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2IfEQqgWc0AH4r6Al/giphy.webp">
 
 # Jeu de devinette de nombre mystère: DEVOM
 
@@ -41,4 +41,4 @@ Les contributions sont les bienvenues ! Si vous avez des idées d'améliorations
 
 Merci de jouer et de contribuer à ce projet !
 
-![Gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDV5emk4dDZ5eDg0ZmZyMHhkY29rbDRzY2d3eXFvaTk5cDBsZ3NtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.webp)
+<img center src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDV5emk4dDZ5eDg0ZmZyMHhkY29rbDRzY2d3eXFvaTk5cDBsZ3NtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.webp">
